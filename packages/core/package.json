@@ -41,7 +41,7 @@
     "cookie-session": "^1.4.0",
     "cross-spawn": "7.0.3",
     "htmlescape": "^1.1.1",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "lodash.frompairs": "4.0.1",
     "nanoid": "^3.1.20",
     "next": "0.39.0-canary.0",
